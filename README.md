@@ -7,7 +7,6 @@ Project Heartbeat (can be bough on Steam:https://store.steampowered.com/app/1216
 
 Texture from Project DIVA Official Games. Edit by Kitsune.
 
-You may use our texture packs to your videos and livestreams.
 
 
 
@@ -18,8 +17,6 @@ Project DIVA Notes Pack 是Steam音乐游戏Project Heartbeat的材质MOD。
 Project Heartbeat (可从Steam购入:https://store.steampowered.com/app/1216230)
 
 材质来源于Project DIVA系列游戏。由Kitsune整合。
-
-可以在视频和直播中使用本材质。
 
 
 
