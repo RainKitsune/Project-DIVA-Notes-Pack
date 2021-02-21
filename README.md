@@ -41,7 +41,7 @@ Then enable Texture Pack from Main Menu > Options > Visual > Icons
 
 
 
-# Special Thans
+# Special Thanks
 EIREXE's modding tool
 https://github.com/EIRTeam/ph_modding
 
